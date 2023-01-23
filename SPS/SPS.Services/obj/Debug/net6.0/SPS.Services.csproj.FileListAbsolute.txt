@@ -1,0 +1,17 @@
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\SPS.Services.csproj.AssemblyReference.cache
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\SPS.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\SPS.Services.AssemblyInfoInputs.cache
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\SPS.Services.AssemblyInfo.cs
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\SPS.Services.csproj.CoreCompileInputs.cache
+E:\FinalSPS\SPS\SPS.Services\bin\Debug\net6.0\SPS.Services.deps.json
+E:\FinalSPS\SPS\SPS.Services\bin\Debug\net6.0\SPS.Services.dll
+E:\FinalSPS\SPS\SPS.Services\bin\Debug\net6.0\SPS.Services.pdb
+E:\FinalSPS\SPS\SPS.Services\bin\Debug\net6.0\SPS.Data.dll
+E:\FinalSPS\SPS\SPS.Services\bin\Debug\net6.0\SPS.Repository.dll
+E:\FinalSPS\SPS\SPS.Services\bin\Debug\net6.0\SPS.Data.pdb
+E:\FinalSPS\SPS\SPS.Services\bin\Debug\net6.0\SPS.Repository.pdb
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\SPS.Services.csproj.CopyComplete
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\SPS.Services.dll
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\refint\SPS.Services.dll
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\SPS.Services.pdb
+E:\FinalSPS\SPS\SPS.Services\obj\Debug\net6.0\ref\SPS.Services.dll

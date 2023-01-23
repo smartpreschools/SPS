@@ -1,0 +1,12 @@
+E:\FinalSPS\SPS\SPS.Helper\bin\Debug\net6.0\SPS.Helper.deps.json
+E:\FinalSPS\SPS\SPS.Helper\bin\Debug\net6.0\SPS.Helper.dll
+E:\FinalSPS\SPS\SPS.Helper\bin\Debug\net6.0\SPS.Helper.pdb
+E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.csproj.AssemblyReference.cache
+E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.AssemblyInfoInputs.cache
+E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.AssemblyInfo.cs
+E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.csproj.CoreCompileInputs.cache
+E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.dll
+E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\refint\SPS.Helper.dll
+E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.pdb
+E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\ref\SPS.Helper.dll

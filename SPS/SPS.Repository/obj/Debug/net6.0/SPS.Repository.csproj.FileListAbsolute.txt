@@ -1,0 +1,15 @@
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\SPS.Repository.csproj.AssemblyReference.cache
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\SPS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\SPS.Repository.AssemblyInfoInputs.cache
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\SPS.Repository.AssemblyInfo.cs
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\SPS.Repository.csproj.CoreCompileInputs.cache
+E:\FinalSPS\SPS\SPS.Repository\bin\Debug\net6.0\SPS.Repository.deps.json
+E:\FinalSPS\SPS\SPS.Repository\bin\Debug\net6.0\SPS.Repository.dll
+E:\FinalSPS\SPS\SPS.Repository\bin\Debug\net6.0\SPS.Repository.pdb
+E:\FinalSPS\SPS\SPS.Repository\bin\Debug\net6.0\SPS.Data.dll
+E:\FinalSPS\SPS\SPS.Repository\bin\Debug\net6.0\SPS.Data.pdb
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\SPS.Repository.csproj.CopyComplete
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\SPS.Repository.dll
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\refint\SPS.Repository.dll
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\SPS.Repository.pdb
+E:\FinalSPS\SPS\SPS.Repository\obj\Debug\net6.0\ref\SPS.Repository.dll

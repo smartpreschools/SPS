@@ -1,0 +1,14 @@
+E:\FinalSPS\SPS\SPS.Data\bin\Debug\net6.0\SPS.Data.deps.json
+E:\FinalSPS\SPS\SPS.Data\bin\Debug\net6.0\SPS.Data.runtimeconfig.json
+E:\FinalSPS\SPS\SPS.Data\bin\Debug\net6.0\SPS.Data.dll
+E:\FinalSPS\SPS\SPS.Data\bin\Debug\net6.0\SPS.Data.pdb
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\SPS.Data.csproj.AssemblyReference.cache
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\SPS.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\SPS.Data.AssemblyInfoInputs.cache
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\SPS.Data.AssemblyInfo.cs
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\SPS.Data.csproj.CoreCompileInputs.cache
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\SPS.Data.dll
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\refint\SPS.Data.dll
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\SPS.Data.pdb
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\SPS.Data.genruntimeconfig.cache
+E:\FinalSPS\SPS\SPS.Data\obj\Debug\net6.0\ref\SPS.Data.dll
