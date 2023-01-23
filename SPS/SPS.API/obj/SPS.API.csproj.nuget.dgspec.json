@@ -1,51 +1,47 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.API\\SPS.API.csproj": {}
+    "E:\\Projects\\New\\SPS\\SPS\\SPS.API\\SPS.API.csproj": {}
   },
   "projects": {
-    "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.API\\SPS.API.csproj": {
+    "E:\\Projects\\New\\SPS\\SPS\\SPS.API\\SPS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.API\\SPS.API.csproj",
+        "projectUniqueName": "E:\\Projects\\New\\SPS\\SPS\\SPS.API\\SPS.API.csproj",
         "projectName": "SPS.API",
-        "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.API\\SPS.API.csproj",
+        "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.API\\SPS.API.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.API\\obj\\",
+        "outputPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj": {
-                "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj"
+              "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj": {
+                "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj"
               },
-              "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj": {
-                "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj"
+              "E:\\Projects\\New\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj": {
+                "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj"
               },
-              "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj": {
-                "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj"
+              "E:\\Projects\\New\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj": {
+                "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj"
               },
-              "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj": {
-                "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj"
+              "E:\\Projects\\New\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj": {
+                "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj"
               }
             }
           }
@@ -71,8 +67,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,35 +79,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj": {
+    "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj",
+        "projectUniqueName": "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj",
         "projectName": "SPS.Data",
-        "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj",
+        "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\obj\\",
+        "outputPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -152,8 +143,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -162,35 +152,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj": {
+    "E:\\Projects\\New\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj",
+        "projectUniqueName": "E:\\Projects\\New\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj",
         "projectName": "SPS.Helper",
-        "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj",
+        "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Helper\\SPS.Helper.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Helper\\obj\\",
+        "outputPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Helper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -214,8 +200,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -224,43 +209,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj": {
+    "E:\\Projects\\New\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj",
+        "projectUniqueName": "E:\\Projects\\New\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj",
         "projectName": "SPS.Repository",
-        "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj",
+        "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Repository\\obj\\",
+        "outputPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj": {
-                "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj"
+              "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj": {
+                "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj"
               }
             }
           }
@@ -280,8 +261,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -290,46 +270,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj": {
+    "E:\\Projects\\New\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj",
+        "projectUniqueName": "E:\\Projects\\New\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj",
         "projectName": "SPS.Services",
-        "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj",
+        "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Services\\SPS.Services.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Services\\obj\\",
+        "outputPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj": {
-                "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj"
+              "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj": {
+                "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Data\\SPS.Data.csproj"
               },
-              "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj": {
-                "projectPath": "E:\\FinalSPS\\Repo\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj"
+              "E:\\Projects\\New\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj": {
+                "projectPath": "E:\\Projects\\New\\SPS\\SPS\\SPS.Repository\\SPS.Repository.csproj"
               }
             }
           }
@@ -349,8 +325,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -359,7 +334,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       }
     }

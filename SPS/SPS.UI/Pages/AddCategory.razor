@@ -1,0 +1,58 @@
+﻿@page "/categorydata"
+@using SPS.UI.Data;
+<PageTitle>User Data</PageTitle>
+@inject HttpClient Http
+@inject IConfiguration Configuration
+
+
+<h1>User Data</h1>
+
+<p>This component demonstrates fetching data from a service.</p>
+
+@if (categoryList == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>CategoryName</th>
+                <th>CategoryDesc</th>             
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in categoryList)
+            {
+                <tr>
+                    <td>@category.CategoryName</td>
+                    <td>@category.CategoryDesc</td>                  
+                    <td>
+                        <a href='/user/edit/@category.CategoryId' class="link-dark" role="button">
+                            Edit
+                        </a>
+                        <a href='/user/delete/@category.CategoryId' class="link-danger" role="button">
+                            Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    protected List<CategoryDetailcs> categoryList = new();
+    protected List<CategoryDetailcs> searchUserData = new();
+    protected override async Task OnInitializedAsync()
+    {
+        await GetUser();
+    }
+    protected async Task GetUser()
+    {
+        categoryList = await Http.GetFromJsonAsync<List<CategoryDetailcs>>(Configuration["BaseUrl"]+"GetCategory");
+        searchUserData = categoryList;
+    }
+}

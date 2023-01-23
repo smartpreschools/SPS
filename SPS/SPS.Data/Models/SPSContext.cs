@@ -20,10 +20,10 @@ namespace SPS.Data.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer("Server=45.64.104.120,52894;Initial Catalog=DBSPS; uid=smartpreschool;Password=sara!@#123; Integrated Security=false;");
-            }
+            //if (!optionsBuilder.IsConfigured)
+            //{
+            //    optionsBuilder.UseSqlServer("Server=45.64.104.120,52894;Initial Catalog=DBSPS; uid=smartpreschool;Password=sara!@#123; Integrated Security=false;");
+            //}
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -10,3 +10,15 @@ E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.dll
 E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\refint\SPS.Helper.dll
 E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.pdb
 E:\FinalSPS\SPS\SPS.Helper\obj\Debug\net6.0\ref\SPS.Helper.dll
+E:\Projects\New\SPS\SPS\SPS.Helper\bin\Debug\net6.0\SPS.Helper.deps.json
+E:\Projects\New\SPS\SPS\SPS.Helper\bin\Debug\net6.0\SPS.Helper.dll
+E:\Projects\New\SPS\SPS\SPS.Helper\bin\Debug\net6.0\SPS.Helper.pdb
+E:\Projects\New\SPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.csproj.AssemblyReference.cache
+E:\Projects\New\SPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\New\SPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.AssemblyInfoInputs.cache
+E:\Projects\New\SPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.AssemblyInfo.cs
+E:\Projects\New\SPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.csproj.CoreCompileInputs.cache
+E:\Projects\New\SPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.dll
+E:\Projects\New\SPS\SPS\SPS.Helper\obj\Debug\net6.0\refint\SPS.Helper.dll
+E:\Projects\New\SPS\SPS\SPS.Helper\obj\Debug\net6.0\SPS.Helper.pdb
+E:\Projects\New\SPS\SPS\SPS.Helper\obj\Debug\net6.0\ref\SPS.Helper.dll
