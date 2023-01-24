@@ -364,3 +364,4 @@ FodyWeavers.xsd
 gitignore/VisualStudio.gitignore at main · github/gitignore
 A collection of useful .gitignore templates. Contribute to github/gitignore development by creating an account on GitHub.
 
+/SPS/SPS.UI/obj/Debug/net6.0/project.razor.vs.json
