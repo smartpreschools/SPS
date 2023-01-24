@@ -22,5 +22,6 @@ namespace SPS.API.Controllers.ProductAdmin
             var responseData = _categoryService.GetCategory();
             return Ok(responseData);
         }
+
     }
 }
