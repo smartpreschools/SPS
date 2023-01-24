@@ -52,7 +52,7 @@ else
     }
     protected async Task GetUser()
     {
-        categoryList = await Http.GetFromJsonAsync<List<CategoryDetailcs>>(Configuration["BaseUrl"]+"GetCategory");
+        categoryList = await Http.GetFromJsonAsync<List<CategoryDetailcs>>(Configuration["BaseUrl"]+"Category");
         searchUserData = categoryList;
     }
 }
