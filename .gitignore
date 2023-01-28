@@ -366,3 +366,15 @@ A collection of useful .gitignore templates. Contribute to github/gitignore deve
 
 /SPS/SPS.UI/obj/Debug/net6.0/project.razor.vs.json
 /SPS/.vs/SPS/v17/.suo
+/SPS/SPS.API/obj/Debug/net6.0/SPS.API.GeneratedMSBuildEditorConfig.editorconfig
+/SPS/SPS.API/obj/Debug/net6.0/SPS.API.csproj.AssemblyReference.cache
+/SPS/SPS.Data/obj/Debug/net6.0/SPS.Data.csproj.AssemblyReference.cache
+/SPS/SPS.Data/obj/Debug/net6.0/SPS.Data.GeneratedMSBuildEditorConfig.editorconfig
+/SPS/SPS.Helper/obj/Debug/net6.0/SPS.Helper.csproj.AssemblyReference.cache
+/SPS/SPS.Helper/obj/Debug/net6.0/SPS.Helper.GeneratedMSBuildEditorConfig.editorconfig
+/SPS/SPS.Repository/obj/Debug/net6.0/SPS.Repository.csproj.AssemblyReference.cache
+/SPS/SPS.Repository/obj/Debug/net6.0/SPS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/SPS/SPS.Services/obj/Debug/net6.0/SPS.Services.csproj.AssemblyReference.cache
+/SPS/SPS.Services/obj/Debug/net6.0/SPS.Services.GeneratedMSBuildEditorConfig.editorconfig
+/SPS/SPS.UI/obj/Debug/net6.0/SPS.UI.csproj.AssemblyReference.cache
+/SPS/SPS.UI/obj/Debug/net6.0/SPS.UI.GeneratedMSBuildEditorConfig.editorconfig
