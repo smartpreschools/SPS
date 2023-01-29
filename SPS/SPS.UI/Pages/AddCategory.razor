@@ -5,11 +5,11 @@
 @inject IConfiguration Configuration
 
 
-<h1>User Data</h1>
+<h1>Categories</h1>
 
 <p>This component demonstrates fetching data from a service.</p>
 
-@if (categoryList == null)
+@if (categories == null)
 {
     <p><em>Loading...</em></p>
 }
@@ -19,16 +19,16 @@ else
         <thead>
             <tr>
                 <th>CategoryName</th>
-                <th>CategoryDesc</th>             
+                <th>CategoryDesc</th>
                 <th>Action</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var category in categoryList)
+            @foreach (var category in cateory)
             {
                 <tr>
                     <td>@category.CategoryName</td>
-                    <td>@category.CategoryDesc</td>                  
+                    <td>@category.CategoryDesc</td>
                     <td>
                         <a href='/user/edit/@category.CategoryId' class="link-dark" role="button">
                             Edit
@@ -40,19 +40,50 @@ else
                 </tr>
             }
         </tbody>
+        <tfoot>
+            <Pagination TotalPages="@(totalPages != 0 ? totalPages : 1)"
+                    PageIndex="@State.PageIndex"
+                    Radius="3"
+                    OnSelectedPage="@SelectedPage">
+            </Pagination>
+        </tfoot>
     </table>
+
 }
 
 @code {
-    protected List<CategoryDetailcs> categoryList = new();
-    protected List<CategoryDetailcs> searchUserData = new();
+  [CascadingParameter]
+    PageIndexStateProvider State { get; set; }
+    
+  
+    private int itemsPerPage = 5;
+    private int totalPages = 1;
+
+    private IEnumerable<CategoryDetailcs> categories = null;
+    private IEnumerable<CategoryDetailcs> cateory = Enumerable.Empty<CategoryDetailcs>();
     protected override async Task OnInitializedAsync()
     {
-        await GetUser();
+        categories = await Http.GetFromJsonAsync<List<CategoryDetailcs>>(Configuration["BaseUrl"] + "Category");
+
+        if (categories != null)
+        {
+            // Initialize the number of "totalPages"
+            totalPages = (int)(categories.Count() / itemsPerPage);
+
+            // Initialize the "comments" which will be displayed when the page loaded first time.
+            var skipCount = itemsPerPage * (State.PageIndex - 1);
+            cateory = categories.Skip(skipCount).Take(itemsPerPage);
+        }
     }
-    protected async Task GetUser()
+   
+    private void SelectedPage(int selectedPageIndex)
     {
-        categoryList = await Http.GetFromJsonAsync<List<CategoryDetailcs>>(Configuration["BaseUrl"]+"Category");
-        searchUserData = categoryList;
+        if (categories != null)
+        {
+            State.PageIndex = selectedPageIndex;
+            var skipCount = itemsPerPage * (State.PageIndex - 1);
+            cateory = categories.Skip(skipCount).Take(itemsPerPage);
+        }
     }
+
 }
