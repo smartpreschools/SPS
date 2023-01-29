@@ -24,7 +24,7 @@ else
             </tr>
         </thead>
         <tbody>
-            @foreach (var category in cateory)
+            @foreach (var category in cateorylist)
             {
                 <tr>
                     <td>@category.CategoryName</td>
@@ -60,7 +60,7 @@ else
     private int totalPages = 1;
 
     private IEnumerable<CategoryDetailcs> categories = null;
-    private IEnumerable<CategoryDetailcs> cateory = Enumerable.Empty<CategoryDetailcs>();
+    private IEnumerable<CategoryDetailcs> cateorylist = Enumerable.Empty<CategoryDetailcs>();
     protected override async Task OnInitializedAsync()
     {
         categories = await Http.GetFromJsonAsync<List<CategoryDetailcs>>(Configuration["BaseUrl"] + "Category");
@@ -72,7 +72,7 @@ else
 
             // Initialize the "comments" which will be displayed when the page loaded first time.
             var skipCount = itemsPerPage * (State.PageIndex - 1);
-            cateory = categories.Skip(skipCount).Take(itemsPerPage);
+            cateorylist = categories.Skip(skipCount).Take(itemsPerPage);
         }
     }
    
@@ -82,7 +82,7 @@ else
         {
             State.PageIndex = selectedPageIndex;
             var skipCount = itemsPerPage * (State.PageIndex - 1);
-            cateory = categories.Skip(skipCount).Take(itemsPerPage);
+            cateorylist = categories.Skip(skipCount).Take(itemsPerPage);
         }
     }
 
